@@ -1,7 +1,41 @@
 {
-  "default_state": "Level1.JaxVsBaraka",
-  "default_player_state": [
-    "Level1.JaxVsBaraka",
-    "Level1.LiuKangVsJax.2P"
-  ]
+  "default_state": "Level1.LiuKangVsJax",
+  "states": {
+    "Level1.CageVsRayden_VeryHard.state": {
+      "description": "Johnny Cage vs Rayden on Level 1 (Very Hard)",
+      "players": 1
+    },
+    "Level1.KitanaVsJax_VeryHard.state": {
+      "description": "Kitana vs Jax on Level 1 (Very Hard)",
+      "players": 1
+    },
+    "Level1.KungLaoVsRayden_VeryHard.state": {
+      "description": "Kung Lao vs Rayden on Level 1 (Very Hard)",
+      "players": 1
+    },
+    "Level1.LiuKangVsJax.state": {
+      "description": "Liu Kang vs Jax on Level 1",
+      "players": 1
+    },
+    "Level1.MileenaVsBaraka_VeryHard.state": {
+      "description": "Mileena vs Baraka on Level 1 (Very Hard)",
+      "players": 1
+    },
+    "Level1.ReptileVsRayden_VeryHard.state": {
+      "description": "Reptile vs Rayden on Level 1 (Very Hard)",
+      "players": 1
+    },
+    "Level1.ScorpionVsJax_VeryHard.state": {
+      "description": "Scorpion vs Jax on Level 1 (Very Hard)",
+      "players": 1
+    },
+    "Level1.ShangTsungVsScorpion_VeryHard.state": {
+      "description": "Shang Tsung vs Scorpion on Level 1 (Very Hard)",
+      "players": 1
+    },
+    "Level1.SubZeroVsBaraka_VeryHard.state": {
+      "description": "Sub-Zero vs Baraka on Level 1 (Very Hard)",
+      "players": 1
+    }
+  }
 }
